@@ -6,3 +6,4 @@
 # soundscapes-ui
 # phraseloop
 # phraseloop
+# country-explorer
